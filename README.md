@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @stephqui
 - 👀 I’m interested in ski, parapente
 - 🌱 I’m currently improving Java, MySQL, C#, 
-- 💞️ I’m looking to collaborate on all kinds og projects
+- 💞️ I’m looking to collaborate on all kinds of projects
 - 📫 How to reach me ...
 
 <!---
